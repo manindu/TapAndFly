@@ -1,3 +1,3 @@
 # TapAndFly
 This is a Flappy Bird clone made in Unity.
-![My image](manindu/TapAndFly/blob/master/Assets/Sprites/Background/ss_02-300x267.jpg)
+![My image](http://ge-team.com/pages/wp-content/uploads/2014/09/ss_02.jpg)
